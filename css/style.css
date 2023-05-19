@@ -207,9 +207,7 @@ h6,
     background-size: cover;
 }
 
-.page-header:hover {
-	background: url("../../Desktop/Screenshot 2023-03-05 at 10.21.59 AM.png") no-repeat;
-}
+
 
 .page-headerother {
 	 background: center center no-repeat;
@@ -218,31 +216,7 @@ h6,
 	
 }
 
-.page-headerother:hover {
-	background: url("../../Desktop/Screenshot 2023-03-05 at 6.36.51 PM.png") no-repeat;
-}
 
-.page-headermother {
-	 background: center center no-repeat;
-	background-color: #63B1DC;
-    background-size: cover;
-	
-}
-
-.page-headermother:hover {
-	background: url("../../Desktop/Screenshot 2023-03-05 at 10.23.19 AM.png") no-repeat;
-}
-
-.page-headerfather {
-	 background: center center no-repeat;
-	background-color: #33789D;
-    background-size: cover;
-	
-}
-
-.page-headerfather:hover {
-	background: url("../../Desktop/Screenshot 2023-03-05 at 6.34.44 PM.png") no-repeat;
-} 
 
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color:  #63B1DC;
